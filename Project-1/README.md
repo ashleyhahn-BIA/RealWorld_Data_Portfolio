@@ -1,4 +1,5 @@
 # Margin & Promo Performance Analysis
+<img src="1_5.PNG" width="120" align="right"/>
 
 **Tool:** Microsoft Excel  
 **Client:** Charlotte's Web (E-commerce, CBD wellness)  
