@@ -26,9 +26,11 @@ This project analyzes both **June promotional sales data** and **current bundled
 ## 📊 Key Insights
 
 ### ✅ June Promo Bundle Findings
-- **Margin range:** 10% to 83%, with most SKUs remaining profitable despite giveaways.
-- **Low-margin outlier:** *6ct gummies* — intentionally low margin to attract new customers.
-- **Data gaps:** 3 new SKUs missing key data (no reviews or revenue tracked yet), likely due to recent launch.
+
+- **Margin range:** 10% to 83%, with most SKUs remaining profitable despite giveaways. This confirms that even with aggressive promo pricing, margins held strong — a sign of smart bundle structure and strong cost control.
+- **Low-margin outlier:** *6ct gummies* — intentionally low margin to attract new customers. This bundle likely serves as a strategic entry product to drive acquisition and encourage trial.
+- **Data gaps:** 3 new SKUs missing key data (no reviews or tracked revenue yet), likely due to recent launch. These should be monitored closely to determine if they gain traction or need further optimization.
+
 <table>
   <tr>
     <td><img src="1_2.PNG" width="100%"></td>
