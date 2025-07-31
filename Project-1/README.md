@@ -10,6 +10,8 @@
 
 This project analyzes both **June promotional sales data** and **current bundled product margins** to assess profitability and uncover opportunities to improve pricing and promotional strategy. The goal was to validate whether current bundle configurations were maintaining healthy profit margins—even with promotions—and to identify outliers impacting growth.
 
+![](1_1.PNG)
+
 ---
 
 ## 🔍 Key Business Questions
