@@ -29,6 +29,14 @@ This project analyzes both **June promotional sales data** and **current bundled
 - **Margin range:** 10% to 83%, with most SKUs remaining profitable despite giveaways.
 - **Low-margin outlier:** *6ct gummies* — intentionally low margin to attract new customers.
 - **Data gaps:** 3 new SKUs missing key data (no reviews or revenue tracked yet), likely due to recent launch.
+<table>
+  <tr>
+    <td><img src="1_2.PNG" width="100%"></td>
+    <td><img src="1_3.PNG" width="100%"></td>
+  </tr>
+</table>
+
+
 
 ### ✅ Current Bundle Margin Findings
 - **Margin range:** 54.81% to 85.93%.
