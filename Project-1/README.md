@@ -54,9 +54,13 @@ This project analyzes both **June promotional sales data** and **current bundled
 
 This analysis confirmed that the company’s **bundle and promo pricing strategy is effective** — enabling high-margin sales, customer onboarding, and scalable promotions. Recommendations from this work help validate bundle mixes, identify which products deserve further investment, and flag areas needing deeper SKU-level tracking.
 
+<p align="center">
+  <img src="1_6.PNG" width="800"/>
+</p>
+
 ---
 
 ## 📁 Files Included
 
-- `CW_Margin_Analysis.xlsx` – includes raw data, pivot analysis, margin calcs, and dashboards.
+- `📊 CW_Margin_Analysis.xlsx` – includes raw data, pivot analysis, margin calcs, and dashboards.
 - Visual summary embedded in workbook (Executive Summary tab).
