@@ -1,15 +1,18 @@
 ## 📁 Project 2: New vs Returning Customer Behavior Breakdown
 
+<img src="2_3.PNG" width="120" align="right"/>
+
 ### 📊 Summary  
 This project focused on uncovering revenue-driving behavior for an e-commerce brand by analyzing trends between new and returning customers. Using Power BI, I built a dynamic dashboard that tracks customer type breakdown, revenue composition, and CAC (Customer Acquisition Cost) over time. The analysis revealed a critical imbalance in acquisition vs. retention efforts, helping the business realign its strategy toward profitable, sustainable growth.
 
 ---
-
 ### ❓ Business Questions
-- Are new customers being acquired efficiently, or are we overspending?
-- What proportion of revenue comes from returning vs. new customers?
-- How is CAC trending month-to-month?
+
+- Are new customers being acquired efficiently, or are we overspending?  
+- What proportion of revenue comes from returning vs. new customers?  
+- How is CAC trending month-to-month?  
 - Should the business prioritize retention or acquisition going forward?
+<img src="2_2.PNG" width="300" align="right"/>
 
 ---
 
@@ -31,6 +34,8 @@ This project focused on uncovering revenue-driving behavior for an e-commerce br
 - **Donut Chart**: Revenue contribution by customer type
 - **Line Chart**: Monthly CAC trend
 
+ ![](2_1.PNG)
+ 
 ---
 
 ### 🧠 Key Insights & Business Impact
