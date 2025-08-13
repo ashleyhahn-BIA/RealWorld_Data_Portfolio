@@ -50,6 +50,7 @@ This project analyzes both **June promotional sales data** and **current bundled
 - Low-margin bundles serve as **strategic acquisition tools**, not margin leaks.
 - Margin tracking used actual bundle prices (not extrapolated), increasing reliability.
 
+![](<Screenshot 2025-08-13 145400.png>)
 ---
 
 ## 📈 Business Impact
