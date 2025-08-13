@@ -1,6 +1,6 @@
 # Customer Segmentation Analysis – Zomato
-
 **Tools:** Power BI | DAX | Data Cleaning | Data Modeling | Business Insights
+
 ## 📌 Project Overview
 This project analyzes **millions of transactional and demographic records** from Zomato to uncover patterns in customer behavior.  
 The goal was to identify:
