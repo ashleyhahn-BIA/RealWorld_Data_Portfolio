@@ -33,6 +33,8 @@ The goal was to identify:
 - Cleaned null values, removed duplicates, and aggregated purchase history  
 - Built **relationships** between transactional, demographic, and restaurant datasets
 
+![](<Screenshot 2025-08-12 134249.png>)
+
 ---
 
 ## 📊 Key Insights & Impact
@@ -55,6 +57,8 @@ The goal was to identify:
 - Orders concentrated in a **small set of high-demand cuisines**.
 - **Impact:** Led to recommendations for **app UX optimization** to prominently feature high-performing cuisines.
 
+![](<Screenshot 2025-08-12 134300.png>)
+
 ---
 
 ## 📈 Business Recommendations
@@ -65,22 +69,16 @@ The goal was to identify:
 5. Partner with high-demand restaurants for **co-branded campaigns**.
 6. 
 ![](<Screenshot 2025-08-12 150209.png>)
----
-
-## 🖥 Dashboard Preview
-![Dashboard Screenshot 1](LINK_TO_IMAGE_1)
-![Dashboard Screenshot 2](LINK_TO_IMAGE_2)
-![Dashboard Screenshot 3](LINK_TO_IMAGE_3)
 
 ---
-
-## 🔗 Interactive Dashboard
-[View the Live Power BI Dashboard](LINK_TO_DASHBOARD)
-
----
-
 ## 🚀 Skills Demonstrated
 - End-to-end **data cleaning, modeling, and transformation**
 - **DAX measures** for dynamic segmentation and revenue analysis
 - **Visual storytelling** through Power BI dashboards
 - Translating data into **clear, actionable business strategies**
+
+---
+## 🔗 Interactive Dashboard
+[View the Live Power BI Dashboard](LINK_TO_DASHBOARD)
+
+---
