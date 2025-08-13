@@ -4,12 +4,12 @@
 ## 📌 Project Overview
 This project analyzes **millions of transactional and demographic records** from Zomato to uncover patterns in customer behavior.  
 The goal was to identify:
+
 - **High-value customer segments** based on repeat purchase activity
 - **Regional differences** in order patterns
 - **Top-performing product categories** driving sales
-
-The findings informed strategies for **customer retention, targeted marketing, and product optimization**.
-
+- The findings informed strategies for **customer retention, targeted marketing, and product optimization**.
+  
 ![](<Screenshot 2025-08-12 134234.png>)
 ---
 
@@ -63,7 +63,8 @@ The findings informed strategies for **customer retention, targeted marketing, a
 3. Maintain **urban delivery focus** and expand partnerships with top-performing urban restaurants.
 4. Promote **North Indian & Chinese cuisines** through in-app banners and push notifications.
 5. Partner with high-demand restaurants for **co-branded campaigns**.
-
+6. 
+![](<Screenshot 2025-08-12 150209.png>)
 ---
 
 ## 🖥 Dashboard Preview
