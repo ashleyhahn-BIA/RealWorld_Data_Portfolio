@@ -1,4 +1,4 @@
-# Predictive Spend Cut Modeling
+# Predictive Spend Cut Impact Analysis
 
 ---
 
@@ -11,6 +11,7 @@ I modeled the business impact of **reducing paid media spend** across multiple c
 
 ## Why This Matters
 Paid media fuels new customer acquisition today **and** tomorrow’s returning revenue. A cut can look good on the P&L short term, but once you account for **Customer Lifetime Value (CLTV)**, the math flips: each dollar cut often destroys multiple dollars in future revenue and profit.
+
 
 ![](<Screenshot 2025-08-14 214832.png>)
 
