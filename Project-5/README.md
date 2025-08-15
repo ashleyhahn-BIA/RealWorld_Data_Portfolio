@@ -1,15 +1,11 @@
 # Product Performance Insights
 
-**Tools:** Excel  
-**Skills:** Data Cleaning, Pivot Tables, Ranking Analysis, Trend Analysis, Business Insights  
-**Deliverables:** Product Ranking Dashboard, Monthly Performance Breakdowns, Actionable Recommendations  
-
----
-
 ## Overview  
 The goal of this project was to identify **top-performing and underperforming products** to guide marketing and inventory decisions. I analyzed a year’s worth of product-level sales data, ranking each SKU by **revenue, units sold, and gross margin contribution**.  
 
 This work provided the client with a clear understanding of where to focus promotions and which products may require strategic changes, bundling, or discontinuation.
+
+![](<Screenshot 2025-08-14 210656.png>)
 
 ---
 
@@ -22,12 +18,16 @@ This work provided the client with a clear understanding of where to focus promo
    - **Highest-margin products**  
 4. **Monthly Performance View** – Created month-over-month tracking for key SKUs.  
 
+![](<Screenshot 2025-08-14 210828.png>)
+
 ---
 
 ## Key Insights  
 - **Concentration of Sales** – Top 10 products accounted for over X% of total annual revenue, suggesting targeted marketing could yield high returns.  
 - **High Unit / Low Margin SKUs** – Several products sold in high volume but had low profit margins, creating opportunities for price optimization or cost reduction.  
 - **Seasonality Trends** – Certain SKUs spiked in specific months, highlighting seasonal demand patterns that can be leveraged for campaign planning.  
+
+![](<Screenshot 2025-08-14 210734.png>)
 
 ---
 
@@ -36,5 +36,12 @@ The analysis provided clear, data-backed recommendations for:
 - **Refining promotional strategy** to focus on high-margin, high-revenue products.  
 - **Inventory planning** to ensure adequate stock for seasonal best-sellers.  
 - **Product portfolio review** to evaluate continuation or discontinuation of low-margin items.
+
+![](<Screenshot 2025-08-14 210742.png>)
+---
+
+**Tools:** Excel  
+**Skills:** Data Cleaning, Pivot Tables, Ranking Analysis, Trend Analysis, Business Insights  
+**Deliverables:** Product Ranking Dashboard, Monthly Performance Breakdowns, Actionable Recommendations  
 
 ---
