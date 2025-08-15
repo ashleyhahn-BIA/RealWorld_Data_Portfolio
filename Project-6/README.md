@@ -1,9 +1,5 @@
 # Predictive Spend Cut Modeling
 
-**Tools:** Excel  
-**Skills:** Scenario Modeling, CAC/ROAS Analysis, LTV Modeling, Executive Reporting  
-**Deliverables:** Spend‑cut scenarios (6‑month horizon), initial vs. lifetime impact, leadership-ready visuals & insights
-
 ---
 
 ## Project Overview
@@ -80,5 +76,11 @@ Paid media fuels new customer acquisition today **and** tomorrow’s returning r
 - **Excel workbook** with scenario math and charts  
 - **Slides** summarizing initial vs. lifetime impact and recommendations
 
-> To protect client confidentiality, all numbers shown here are **anonymized/rounded** and company details are omitted.
+---
+
+**Tools:** Excel  
+**Skills:** Scenario Modeling, CAC/ROAS Analysis, LTV Modeling, Executive Reporting  
+**Deliverables:** Spend‑cut scenarios (6‑month horizon), initial vs. lifetime impact, leadership-ready visuals & insights
+
+---
 
