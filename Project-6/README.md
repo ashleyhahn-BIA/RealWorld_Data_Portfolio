@@ -5,10 +5,14 @@
 ## Project Overview
 I modeled the business impact of **reducing paid media spend** across multiple cut sizes to quantify the **true cost of cutting acquisition**. The analysis goes beyond short‑term savings to include **lost customers, revenue, and profit**—both **initial (first purchase)** and **lifetime (CLTV)**—so leadership could compare “savings” vs. **value destroyed**.
 
+![](<Screenshot 2025-08-14 214358.png>)
+
 ---
 
 ## Why This Matters
 Paid media fuels new customer acquisition today **and** tomorrow’s returning revenue. A cut can look good on the P&L short term, but once you account for **Customer Lifetime Value (CLTV)**, the math flips: each dollar cut often destroys multiple dollars in future revenue and profit.
+
+![](<Screenshot 2025-08-14 214832.png>)
 
 ---
 
@@ -31,6 +35,11 @@ Paid media fuels new customer acquisition today **and** tomorrow’s returning r
    - **Initial vs. lifetime** financial impact  
    - Clear visuals + an “executive takeaway” for each scenario
 
+<p align="center">
+  <img src="Screenshot%202025-08-14%20214748.png" width="35%" />
+  <img src="Screenshot%202025-08-14%20214757.png" width="60%" />
+</p>
+
 ---
 
 ## Key Results 
@@ -39,14 +48,15 @@ Paid media fuels new customer acquisition today **and** tomorrow’s returning r
   - **Initial loss:** ~$2.0M revenue, ~$1.2M profit  
   - **Lifetime loss:** ~$11.8M revenue, ~$7.1M profit  
   - **Takeaway:** Short‑term “savings” are outweighed by long‑term value destruction.
+![](<Screenshot 2025-08-14 214919.png>)
 
 - **$700,000 Cut (6 months)**
   - ~**21,348** fewer new customers  
   - **Initial loss:** ~$1.4M revenue, ~$0.84M profit  
   - **Lifetime loss:** ~$8.2M revenue, ~$4.95M profit  
   - **Takeaway:** A smaller cut still erodes future growth and subscription value.
+![](<Screenshot 2025-08-14 214909.png>)
 
-> **Insight:** The model shows each $100K reduction in spend costs ~**3K** customers and destroys **>$1M** in lifetime revenue—highlighting how acquisition cuts compound over time.
 
 ---
 
@@ -54,33 +64,13 @@ Paid media fuels new customer acquisition today **and** tomorrow’s returning r
 - Reframed “spend cuts” as **value trade‑offs**, giving leadership a dollar‑for‑dollar view of **savings vs. future revenue destroyed**.  
 - Informed budget decisions by quantifying how cuts impact **next‑year targets** (fewer acquired customers now → smaller base of repeat buyers later).  
 - Helped preserve **subscription growth** by showing the outsized long‑term profitability of acquired customers.
-
----
-
-## Example Visuals
-> _Insert screenshots:_  
-> • Spend Cut — **Initial Impact** (customers, revenue, profit)  
-> • Spend Cut — **Lifetime Impact** (CLTV‑adjusted)  
-> • “**Value of a Dollar Cut**” quick reference
-
----
-
-## How I Communicated It
-- One‑page **executive summary** (bulleted, ROI‑style language)  
-- Two clean scenario slides (**$700K** and **$1M**) with clear “So what?” boxes  
-- A simple rule‑of‑thumb card: **“Every $100K cut ≈ 3K customers lost & >$1M lifetime revenue destroyed.”**
-
----
-
-## Files
-- **Excel workbook** with scenario math and charts  
-- **Slides** summarizing initial vs. lifetime impact and recommendations
+![](<Screenshot 2025-08-14 214845.png>)
 
 ---
 
 **Tools:** Excel  
 **Skills:** Scenario Modeling, CAC/ROAS Analysis, LTV Modeling, Executive Reporting  
-**Deliverables:** Spend‑cut scenarios (6‑month horizon), initial vs. lifetime impact, leadership-ready visuals & insights
+**Deliverables:** Spend-cut scenarios (6-month horizon), initial vs. lifetime impact, leadership-ready visuals & insights, full executive PowerPoint presentation for leadership translating the analysis into clear slides, insight boxes, and an actionable executive summary
 
 ---
 
