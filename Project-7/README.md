@@ -8,6 +8,8 @@ The models compared each growth scenario to **current YTD performance**, showing
 
 This work was delivered in both **Excel** (for calculation transparency) and **Power BI** (for leadership-ready visuals and interactive filtering).
 
+![](<Screenshot 2025-08-14 190714.png>)
+
 ---
 
 ## Why This Matters
@@ -22,9 +24,15 @@ By modeling both scenarios, I gave leadership the ability to:
 - See **short-term & long-term financial impact**
 - Understand how these increases support **next-year growth goals**
 
+
 ---
 
-## Methodology
+<table>
+<tr>
+<td width="40%">
+<img src="Screenshot%202025-08-14%20221518.png" alt="Methodology Image">
+</td>
+<td width="60%">
 
 ### 1. Inputs
 - Current **Customer Acquisition Cost (CAC)**
@@ -48,6 +56,10 @@ For each growth scenario:
 - Separate **initial** and **lifetime** impact metrics
 - Visualized in **Power BI** for clarity
 
+</td>
+</tr>
+</table>
+
 ---
 
 ## Key Results
@@ -58,7 +70,7 @@ For each growth scenario:
 - **Lifetime gain:** +$3.07M revenue, +$1.84M profit  
 - **Takeaway:** Modest spend increase yields strong return, more than 6× payback over customer lifetime.
 
-![10% Increase Dashboard](<10percent_screenshot.png>)
+![](<Screenshot 2025-08-14 221544.png>)
 
 ---
 
@@ -68,7 +80,7 @@ For each growth scenario:
 - **Lifetime gain:** +$5.21M revenue, +$3.13M profit  
 - **Takeaway:** Larger increase drives exponential lifetime impact, accelerating path to revenue and profit goals.
 
-![17% Increase Dashboard](<17percent_screenshot.png>)
+![](<Screenshot 2025-08-14 221533.png>)
 
 ---
 
@@ -77,6 +89,8 @@ For each growth scenario:
 - Enabled leadership to choose between **conservative** and **aggressive** growth paths
 - Supported budget decisions by showing the **compounding CLTV effect** of new customer acquisition
 - Delivered **both Excel models** (calculation transparency) and **Power BI dashboards** (executive presentation-ready)
+
+![](<Screenshot 2025-08-14 190658.png>)
 
 ---
 
