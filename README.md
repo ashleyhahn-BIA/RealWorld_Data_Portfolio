@@ -9,7 +9,11 @@ Welcome to my real-world data projects portfolio! This collection highlights han
 | 3              | [Customer Segmentatioin Analysis](./Project-3/README.md) |An interactive Power BI dashboard analyzing customer demographics, regional buying patterns, and cuisine preferences. Highlights high-value segments, top-performing product categories, and urban vs. rural order trends to drive targeted marketing and retention strategies.|
 | 4              | [Customer Acquisition Cost (CAC) Tracking & Reforecasting](./Project-4/README.md)                         | [Placeholder for next freelance or practice project you add.] |
 | 5              | [Product Performance Insights](./Project-5/README.md) | The goal of this project was to identify top-performing and underperforming products to guide marketing and inventory decisions. I analyzed a year’s worth of product-level sales data, ranking each SKU by revenue, units sold, and gross margin contribution. This work provided the client with a clear understanding of where to focus promotions and which products may require strategic changes, bundling, or discontinuation. |
-| 6              | [Predictive Spend Cut Modeling](./Project-6/README.md)                         | [Placeholder for next freelance or practice project you add.] |
+| 6              | [Predictive Spend Cut Modeling](./Project-6/README.md)                         | I modeled the business impact of reducing paid media spend across multiple cut sizes to quantify the true cost of cutting acquisition. The analysis goes beyond short‑term savings to include lost customers, revenue, and profit—both initial (first purchase) and lifetime (CLTV)—so leadership could compare “savings” vs. value destroyed. |
+| 7              | [Predictive Spend Modeling](./Project-7/README.md)                         | [Placeholder for next freelance or practice project you add.] |
+| 7              | [Predictive Spend Modeling](./Project-7/README.md)                         | [Placeholder for next freelance or practice project you add.] |
+| 7              | [Predictive Spend Modeling](./Project-7/README.md)                         | [Placeholder for next freelance or practice project you add.] |
+| 7              | [Predictive Spend Modeling](./Project-7/README.md)                         | [Placeholder for next freelance or practice project you add.] |
 | 7              | [Predictive Spend Modeling](./Project-7/README.md)                         | [Placeholder for next freelance or practice project you add.] |
 
 ---
